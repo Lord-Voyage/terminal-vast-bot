@@ -49,7 +49,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Lord-Voyage/Terminal-Vast-
-cd Terminal-Vast-
+git clone https://github.com/Lord-Voyage/terminal-vast-bot
+cd terminal-vast-bot
 npm install
 
